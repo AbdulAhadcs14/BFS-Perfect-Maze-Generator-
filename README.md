@@ -112,6 +112,5 @@ This project is licensed under the **MIT License** — you’re free to use it i
 ## 🧠 Author
 
 **Abdul Ahad**  
-Unity Developer
 
 
